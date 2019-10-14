@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/10/13 15:22:48.000.999,=C:\Users\PauloHB\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/10/13 15:42:53.000.115,C:\Users\PauloHB\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\infosistemas\prjTeste\untCadastro.dfm</Transaction>
+    <Transaction>2019/10/13 15:42:53.000.115,C:\Users\PauloHB\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\infosistemas\prjTeste\untCadastro.pas</Transaction>
+    <Transaction>2019/10/13 15:43:01.000.984,C:\Users\PauloHB\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\infosistemas\prjTeste\prjCadastroCliente.dproj</Transaction>
+    <Transaction>2019/10/14 10:20:24.121,=C:\infosistemas\prjTeste\viacep\ViaCEP.Core.pas</Transaction>
+    <Transaction>2019/10/14 10:20:24.124,=C:\infosistemas\prjTeste\viacep\ViaCEP.Intf.pas</Transaction>
+    <Transaction>2019/10/14 10:20:24.128,=C:\infosistemas\prjTeste\viacep\ViaCEP.Model.pas</Transaction>
+  </Transactions>
+</BorlandProject>
